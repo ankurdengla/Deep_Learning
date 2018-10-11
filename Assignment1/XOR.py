@@ -1,3 +1,7 @@
+###
+# This program implements a neural network which predicts the output of 2-input XOR gate 
+#
+###
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.optimizers import SGD

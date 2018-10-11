@@ -1,3 +1,7 @@
+###
+# This program implements a perceptron which predicts the output of 2-input NAND gate 
+#
+###
 import numpy as np
 
 train_X = np.asarray([[1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 1]])
